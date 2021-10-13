@@ -1,3 +1,5 @@
+
+/*This is method one you can also try the other method named as Input&Output_2_method2.cpp*/
 #include <iostream>
 using namespace std;
 
